@@ -9,4 +9,4 @@ This is a project based on the included sample data to visualize different perfo
 * [Link to the Public Tableau](https://public.tableau.com/app/profile/lac.sam/viz/BikeStoresDashboard_16842052851400/Dashboard1)
 
 ## Picture of the Tableau Visualization
-![](Images/Picture%201.png) 
+![](images/Bikestores-Tableau-Dashboard.png) 
