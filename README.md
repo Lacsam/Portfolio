@@ -1,4 +1,4 @@
-# [Portfolio](https://github.com/Lacsam/Portfolio)
+# [Portfolio](https://lacsam.github.io/Portfolio/)
 
 # [Project 1: BikeStore Data Visualization](https://github.com/Lacsam/BikeStore-Data-visualization)
 
